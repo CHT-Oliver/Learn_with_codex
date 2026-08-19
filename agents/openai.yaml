@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn_with_codex"
+  short_description: "Codex 私人学习搭子 — 中文导师式通用学习与项目陪练 skill"
+  default_prompt: "Use $Learn_with_codex to teach me a topic in Chinese with a mastery-based plan, authoritative sources, and a project-style deliverable."
