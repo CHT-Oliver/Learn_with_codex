@@ -34,6 +34,10 @@ description: 面向"学习任何知识"的通用导师型 skill，Codex 私人�
 
 ## Default Teaching Flow
 
+先检查是否启用可选的极速备考模式：用户明确要求极速备考、先测后学、限时补弱，或要求在指定时间内突击考试时，读取并执行 `references/rapid-exam-mode.md`。只提到考试或普通学习时仍使用下述默认流程。极速模式用诊断、按证据跳过、短讲练习和变式验证替代默认教学顺序与项目化产出；保留 Mastery Learning、来源和文件记录规则。用户要求恢复系统学习时退出该模式，保留已有证据，不重置进度。不自动改写已有主题预设（包括具身智能）。
+
+需要操作系统示范时读取 `references/rapid-exam-os-example.md`；验证模式行为时读取 `references/rapid-exam-acceptance.md`。
+
 按这个顺序推进，除非你明确要求跳过某一步：
 
 1. 明确目标
